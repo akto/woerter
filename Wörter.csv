@@ -1,0 +1,26 @@
+date,german,artikel,forms,type,english,turkish,example_de,example_en,example_tr,level,tags,repetition
+2026-10-19,Zug,der,Züge,noun,train,tren,Der Zug fährt um acht Uhr ab.,The train leaves at eight o'clock.,Tren saat sekizde kalkıyor.,A1,bahn,weekly
+2026-10-19,Bahnhof,der,Bahnhöfe,noun,train station,tren istasyonu,Der Zug kommt pünktlich am Bahnhof an.,The train arrives at the station on time.,Tren istasyona zamanında varıyor.,A1,bahn,weekly
+2026-10-19,Gleis,das,Gleise,noun,track; platform,ray; peron,Der Zug nach Salzburg fährt von Gleis 7 ab.,The train to Salzburg departs from platform 7.,Salzburg treni 7. perondan kalkıyor.,A1,bahn,daily
+2026-10-19,Fahrkarte,die,Fahrkarten,noun,ticket,bilet,Ich kaufe die Fahrkarte am Automaten.,I buy the ticket at the machine.,Bileti otomattan alıyorum.,A1,bahn,daily
+2026-10-19,Fahrplan,der,Fahrpläne,noun,timetable,sefer tarifesi,Der neue Fahrplan gilt ab Dezember.,The new timetable applies from December.,Yeni sefer tarifesi Aralık'tan itibaren geçerli.,A2,bahn,daily
+2026-10-19,Verspätung,die,Verspätungen,noun,delay,gecikme,Der Zug hat zehn Minuten Verspätung.,The train is ten minutes late.,Trenin on dakika gecikmesi var.,A2,bahn,daily
+2026-10-19,umsteigen,,"steigt um, stieg um, ist umgestiegen",verb,to change (trains),aktarma yapmak,In Linz muss ich umsteigen.,I have to change trains in Linz.,Linz'de aktarma yapmam gerekiyor.,A2,bahn,daily
+2026-10-19,pünktlich,,,adj,on time; punctual,zamanında; dakik,Die Züge in Österreich sind meistens pünktlich.,Trains in Austria are mostly on time.,Avusturya'da trenler çoğunlukla zamanında.,A2,bahn,daily
+2026-10-19,Weiche,die,Weichen,noun,railway switch; points,makas (demiryolu),Die Weiche wurde gestern ausgetauscht.,The switch was replaced yesterday.,Makas dün değiştirildi.,B1,"bahn,technik",daily
+2026-10-19,Schwelle,die,Schwellen,noun,sleeper (railway tie); threshold,travers; eşik,Die Schwellen sind aus Beton.,The sleepers are made of concrete.,Traversler betondan.,B1,"bahn,technik",daily
+2026-10-19,Baustelle,die,Baustellen,noun,construction site,şantiye,Ich bin jeden Tag auf der Baustelle.,I am on the construction site every day.,Her gün şantiyedeyim.,A2,arbeit,daily
+2026-10-19,Abnahme,die,Abnahmen,noun,acceptance (of works); handover inspection,kabul (işlerin teslim alınması),Die Abnahme der Strecke ist im Dezember geplant.,The acceptance of the line is planned for December.,Hattın kabulü Aralık ayında planlanıyor.,B1,"arbeit,technik",daily
+2026-10-19,Vertrag,der,Verträge,noun,contract,sözleşme,Der Vertrag wurde letzte Woche unterschrieben.,The contract was signed last week.,Sözleşme geçen hafta imzalandı.,A2,arbeit,daily
+2026-10-19,Rechnung,die,Rechnungen,noun,invoice; bill,fatura; hesap,Können Sie mir bitte die Rechnung schicken?,Could you please send me the invoice?,Bana faturayı gönderebilir misiniz lütfen?,A2,arbeit,daily
+2026-10-19,Erfahrung,die,Erfahrungen,noun,experience,deneyim,Ich habe über zehn Jahre Erfahrung im Bahnbau.,I have over ten years of experience in railway construction.,Demiryolu inşaatında on yılı aşkın deneyimim var.,B1,arbeit,daily
+2026-10-19,sich bewerben,,"bewirbt sich, bewarb sich, hat sich beworben",verb,to apply (for a job),başvurmak (işe),Ich bewerbe mich um eine Stelle in Wien.,I am applying for a position in Vienna.,Viyana'da bir pozisyona başvuruyorum.,B1,arbeit,daily
+2026-10-19,Wohnung,die,Wohnungen,noun,apartment; flat,daire; ev,Ich suche eine Wohnung in Wien.,I am looking for an apartment in Vienna.,Viyana'da bir daire arıyorum.,A1,wien,daily
+2026-10-19,Termin,der,Termine,noun,appointment,randevu,Ich habe morgen einen Termin beim Magistrat.,I have an appointment at the municipal office tomorrow.,Yarın belediyede randevum var.,A2,"wien,alltag",daily
+2026-10-19,Semmel,die,Semmeln,noun,bread roll (Austrian),küçük yuvarlak ekmek (Avusturya),Zum Frühstück esse ich eine Semmel mit Butter.,For breakfast I eat a roll with butter.,Kahvaltıda tereyağlı bir küçük ekmek yerim.,A1,"wien,essen,österreich",daily
+2026-10-19,Paradeiser,der,Paradeiser,noun,tomato (Austrian),domates (Avusturya),Am Naschmarkt kaufe ich frische Paradeiser.,At the Naschmarkt I buy fresh tomatoes.,Naschmarkt'ta taze domates alırım.,A1,"wien,essen,österreich",daily
+2026-10-19,Jänner,der,,noun,January (Austrian),Ocak (Avusturya),Im Jänner ist es in Wien sehr kalt.,In January it is very cold in Vienna.,Ocak ayında Viyana çok soğuk olur.,A1,"wien,österreich",daily
+2026-10-19,Mädchen,das,Mädchen,noun,girl,kız,Das Mädchen wartet auf den Zug.,The girl is waiting for the train.,Kız treni bekliyor.,A1,alltag,daily
+2026-10-19,gemütlich,,,adj,cozy; relaxed,rahat; keyifli,Das Kaffeehaus ist sehr gemütlich.,The coffee house is very cozy.,Kahvehane çok rahat.,A2,wien,daily
+2026-10-19,trotzdem,,,adv,nevertheless; anyway,yine de,"Es regnet, trotzdem gehe ich spazieren.","It is raining, but I am going for a walk anyway.","Yağmur yağıyor, yine de yürüyüşe çıkıyorum.",B1,grammatik,daily
+2026-10-19,Bescheid sagen,,"sagt Bescheid, sagte Bescheid, hat Bescheid gesagt",phrase,to let someone know,haber vermek,"Sag mir bitte Bescheid, wenn du ankommst.",Please let me know when you arrive.,Vardığında bana haber ver lütfen.,A2,alltag,daily
