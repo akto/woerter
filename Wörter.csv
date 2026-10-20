@@ -5,7 +5,7 @@ date,german,artikel,forms,type,english,turkish,example_de,example_en,example_tr,
 2026-10-19,Fahrkarte,die,Fahrkarten,noun,ticket,bilet,Ich kaufe die Fahrkarte am Automaten.,I buy the ticket at the machine.,Bileti otomattan alıyorum.,A1,bahn,daily
 2026-10-19,Fahrplan,der,Fahrpläne,noun,timetable,sefer tarifesi,Der neue Fahrplan gilt ab Dezember.,The new timetable applies from December.,Yeni sefer tarifesi Aralık'tan itibaren geçerli.,A2,bahn,daily
 2026-10-19,Verspätung,die,Verspätungen,noun,delay,gecikme,Der Zug hat zehn Minuten Verspätung.,The train is ten minutes late.,Trenin on dakika gecikmesi var.,A2,bahn,daily
-2026-10-19,umsteigen,,"steigt um, stieg um, ist umgestiegen",verb,to change (trains),aktarma yapmak,In Linz muss ich umsteigen.,I have to change trains in Linz.,Linz'de aktarma yapmam gerekiyor.,A2,bahn,daily
+2026-10-19,umsteigen,,"steige um, steigst um, steigt um, steigen um, steigt um, steigen um; stieg um; ist umgestiegen",verb,to change (trains),aktarma yapmak,In Linz muss ich umsteigen.,I have to change trains in Linz.,Linz'de aktarma yapmam gerekiyor.,A2,bahn,daily
 2026-10-19,pünktlich,,,adj,on time; punctual,zamanında; dakik,Die Züge in Österreich sind meistens pünktlich.,Trains in Austria are mostly on time.,Avusturya'da trenler çoğunlukla zamanında.,A2,bahn,daily
 2026-10-19,Weiche,die,Weichen,noun,railway switch; points,makas (demiryolu),Die Weiche wurde gestern ausgetauscht.,The switch was replaced yesterday.,Makas dün değiştirildi.,B1,"bahn,technik",daily
 2026-10-19,Schwelle,die,Schwellen,noun,sleeper (railway tie); threshold,travers; eşik,Die Schwellen sind aus Beton.,The sleepers are made of concrete.,Traversler betondan.,B1,"bahn,technik",daily
@@ -14,7 +14,7 @@ date,german,artikel,forms,type,english,turkish,example_de,example_en,example_tr,
 2026-10-19,Vertrag,der,Verträge,noun,contract,sözleşme,Der Vertrag wurde letzte Woche unterschrieben.,The contract was signed last week.,Sözleşme geçen hafta imzalandı.,A2,arbeit,daily
 2026-10-19,Rechnung,die,Rechnungen,noun,invoice; bill,fatura; hesap,Können Sie mir bitte die Rechnung schicken?,Could you please send me the invoice?,Bana faturayı gönderebilir misiniz lütfen?,A2,arbeit,daily
 2026-10-19,Erfahrung,die,Erfahrungen,noun,experience,deneyim,Ich habe über zehn Jahre Erfahrung im Bahnbau.,I have over ten years of experience in railway construction.,Demiryolu inşaatında on yılı aşkın deneyimim var.,B1,arbeit,daily
-2026-10-19,sich bewerben,,"bewirbt sich, bewarb sich, hat sich beworben",verb,to apply (for a job),başvurmak (işe),Ich bewerbe mich um eine Stelle in Wien.,I am applying for a position in Vienna.,Viyana'da bir pozisyona başvuruyorum.,B1,arbeit,daily
+2026-10-19,sich bewerben,,"bewerbe mich, bewirbst dich, bewirbt sich, bewerben uns, bewerbt euch, bewerben sich; bewarb sich; hat sich beworben",verb,to apply (for a job),başvurmak (işe),Ich bewerbe mich um eine Stelle in Wien.,I am applying for a position in Vienna.,Viyana'da bir pozisyona başvuruyorum.,B1,arbeit,daily
 2026-10-19,Wohnung,die,Wohnungen,noun,apartment; flat,daire; ev,Ich suche eine Wohnung in Wien.,I am looking for an apartment in Vienna.,Viyana'da bir daire arıyorum.,A1,wien,daily
 2026-10-19,Termin,der,Termine,noun,appointment,randevu,Ich habe morgen einen Termin beim Magistrat.,I have an appointment at the municipal office tomorrow.,Yarın belediyede randevum var.,A2,"wien,alltag",daily
 2026-10-19,Semmel,die,Semmeln,noun,bread roll (Austrian),küçük yuvarlak ekmek (Avusturya),Zum Frühstück esse ich eine Semmel mit Butter.,For breakfast I eat a roll with butter.,Kahvaltıda tereyağlı bir küçük ekmek yerim.,A1,"wien,essen,österreich",daily
@@ -23,4 +23,240 @@ date,german,artikel,forms,type,english,turkish,example_de,example_en,example_tr,
 2026-10-19,Mädchen,das,Mädchen,noun,girl,kız,Das Mädchen wartet auf den Zug.,The girl is waiting for the train.,Kız treni bekliyor.,A1,alltag,daily
 2026-10-19,gemütlich,,,adj,cozy; relaxed,rahat; keyifli,Das Kaffeehaus ist sehr gemütlich.,The coffee house is very cozy.,Kahvehane çok rahat.,A2,wien,daily
 2026-10-19,trotzdem,,,adv,nevertheless; anyway,yine de,"Es regnet, trotzdem gehe ich spazieren.","It is raining, but I am going for a walk anyway.","Yağmur yağıyor, yine de yürüyüşe çıkıyorum.",B1,grammatik,daily
-2026-10-19,Bescheid sagen,,"sagt Bescheid, sagte Bescheid, hat Bescheid gesagt",phrase,to let someone know,haber vermek,"Sag mir bitte Bescheid, wenn du ankommst.",Please let me know when you arrive.,Vardığında bana haber ver lütfen.,A2,alltag,daily
+2026-10-19,Bescheid sagen,,"sage Bescheid, sagst Bescheid, sagt Bescheid, sagen Bescheid, sagt Bescheid, sagen Bescheid; sagte Bescheid; hat Bescheid gesagt",phrase,to let someone know,haber vermek,"Sag mir bitte Bescheid, wenn du ankommst.",Please let me know when you arrive.,Vardığında bana haber ver lütfen.,A2,alltag,daily
+2026-10-20,Körper,der,Körper,noun,body,vücut,Sport ist gut für den Körper.,Sport is good for the body.,Spor vücut için iyidir.,A1,körper,daily
+2026-10-20,Körperteil,der,Körperteile,noun,body part,vücut bölümü,Wie viele Körperteile kennst du auf Deutsch?,How many body parts do you know in German?,Almanca kaç vücut bölümü biliyorsun?,A1,körper,daily
+2026-10-20,Kopf,der,Köpfe,noun,head,baş; kafa,Mein Kopf ist heute ganz schwer.,My head feels really heavy today.,Bugün başım çok ağır.,A1,körper,daily
+2026-10-20,Gesicht,das,Gesichter,noun,face,yüz,Ich wasche mir das Gesicht.,I wash my face.,Yüzümü yıkıyorum.,A1,körper,daily
+2026-10-20,Auge,das,Augen,noun,eye,göz,Sie hat blaue Augen.,She has blue eyes.,Onun mavi gözleri var.,A1,körper,daily
+2026-10-20,Nase,die,Nasen,noun,nose,burun,Meine Nase läuft.,My nose is running.,Burnum akıyor.,A1,körper,daily
+2026-10-20,Lippe,die,Lippen,noun,lip,dudak,Im Winter sind meine Lippen trocken.,In winter my lips are dry.,Kışın dudaklarım kuru olur.,A1,körper,daily
+2026-10-20,Mund,der,Münder,noun,mouth,ağız,Bitte öffnen Sie den Mund.,Please open your mouth.,Lütfen ağzınızı açın.,A1,körper,daily
+2026-10-20,Wange,die,Wangen,noun,cheek,yanak,Das Kind hat rote Wangen.,The child has red cheeks.,Çocuğun yanakları kırmızı.,A1,körper,daily
+2026-10-20,Kinn,das,Kinne,noun,chin,çene,Er hat eine kleine Wunde am Kinn.,He has a small wound on his chin.,Çenesinde küçük bir yara var.,A1,körper,daily
+2026-10-20,Ohr,das,Ohren,noun,ear,kulak,Mein linkes Ohr tut weh.,My left ear hurts.,Sol kulağım ağrıyor.,A1,körper,daily
+2026-10-20,Zahn,der,Zähne,noun,tooth,diş,Ich putze zweimal am Tag die Zähne.,I brush my teeth twice a day.,Günde iki kez dişlerimi fırçalıyorum.,A1,körper,daily
+2026-10-20,Schnurrbart,der,Schnurrbärte,noun,moustache,bıyık,Mein Vater hat einen Schnurrbart.,My father has a moustache.,Babamın bıyığı var.,A1,körper,daily
+2026-10-20,Bart,der,Bärte,noun,beard,sakal,Im Winter trage ich einen Bart.,In winter I have a beard.,Kışın sakal bırakıyorum.,A1,körper,daily
+2026-10-20,Hals,der,Hälse,noun,neck; throat,boyun; boğaz,Ich habe Schmerzen im Hals.,My throat hurts.,Boğazımda ağrı var.,A1,körper,daily
+2026-10-20,Schulter,die,Schultern,noun,shoulder,omuz,Nach der Arbeit tut mir die Schulter weh.,After work my shoulder hurts.,İşten sonra omzum ağrıyor.,A1,körper,daily
+2026-10-20,Brust,die,Brüste,noun,chest; breast,göğüs,Er hat Schmerzen in der Brust.,He has chest pain.,Göğsünde ağrı var.,A1,körper,daily
+2026-10-20,Bauch,der,Bäuche,noun,belly; stomach,karın,Nach dem Essen tut mir der Bauch weh.,After eating my stomach hurts.,Yemekten sonra karnım ağrıyor.,A1,körper,daily
+2026-10-20,Arm,der,Arme,noun,arm,kol,Sie trägt das Kind auf dem Arm.,She is carrying the child in her arms.,Çocuğu kucağında taşıyor.,A1,körper,daily
+2026-10-20,Hand,die,Hände,noun,hand,el,Wasch dir bitte die Hände!,Please wash your hands!,Lütfen ellerini yıka!,A1,körper,daily
+2026-10-20,Finger,der,Finger,noun,finger,parmak,Ich habe mich in den Finger geschnitten.,I have cut my finger.,Parmağımı kestim.,A1,körper,daily
+2026-10-20,Rücken,der,Rücken,noun,back,sırt,"Ich sitze den ganzen Tag, deshalb tut mir der Rücken weh.","I sit all day, so my back hurts.","Bütün gün oturuyorum, bu yüzden sırtım ağrıyor.",A1,körper,daily
+2026-10-20,Gelenk,das,Gelenke,noun,joint,eklem,Beim Laufen tun mir die Gelenke weh.,My joints hurt when I run.,Koşarken eklemlerim ağrıyor.,A2,körper,daily
+2026-10-20,Bein,das,Beine,noun,leg,bacak,Nach der Wanderung sind meine Beine müde.,After the hike my legs are tired.,Yürüyüşten sonra bacaklarım yorgun.,A1,körper,daily
+2026-10-20,Oberschenkel,der,Oberschenkel,noun,thigh,uyluk,Der Oberschenkel ist zwischen Hüfte und Knie.,The thigh is between the hip and the knee.,"Uyluk, kalça ile diz arasındadır.",A2,körper,daily
+2026-10-20,Unterschenkel,der,Unterschenkel,noun,lower leg; shin,alt bacak; incik,Der Unterschenkel ist zwischen Knie und Fuß.,The lower leg is between the knee and the foot.,"Alt bacak, diz ile ayak arasındadır.",A2,körper,daily
+2026-10-20,Knie,das,Knie,noun,knee,diz,Beim Fußballspielen habe ich mir das Knie verletzt.,I hurt my knee playing football.,Futbol oynarken dizimi incittim.,A1,körper,daily
+2026-10-20,Fuß,der,Füße,noun,foot,ayak,Ich gehe zu Fuß zur Arbeit.,I walk to work.,İşe yürüyerek gidiyorum.,A1,körper,daily
+2026-10-20,Zeh,der,Zehen,noun,toe (also: die Zehe),ayak parmağı,Ich habe mir den Zeh am Tischbein gestoßen.,I stubbed my toe on the table leg.,Ayak parmağımı masanın ayağına çarptım.,A1,körper,daily
+2026-10-20,Haar,das,Haare,noun,hair,saç,"Sie hat lange, dunkle Haare.","She has long, dark hair.","Onun uzun, koyu renk saçları var.",A1,körper,daily
+2026-10-20,Handfläche,die,Handflächen,noun,palm (of the hand),avuç içi,Leg die Tablette auf die Handfläche.,Put the tablet on your palm.,Tableti avucunun içine koy.,A2,körper,daily
+2026-10-20,Fußsohle,die,Fußsohlen,noun,sole (of the foot),ayak tabanı,Nach dem langen Spaziergang tun mir die Fußsohlen weh.,After the long walk the soles of my feet hurt.,Uzun yürüyüşten sonra ayak tabanlarım ağrıyor.,A2,körper,daily
+2026-10-20,Po,der,Pos,noun,bottom; bum (informal),popo,Das Baby bekommt eine Spritze in den Po.,The baby gets an injection in the bottom.,Bebeğe popodan iğne yapılıyor.,A1,körper,daily
+2026-10-20,Husten,der,,noun,cough,öksürük,Ich habe seit drei Tagen Husten.,I've had a cough for three days.,Üç gündür öksürüğüm var.,A1,gesundheit,daily
+2026-10-20,Hustensaft,der,Hustensäfte,noun,cough syrup,öksürük şurubu,Nimm dreimal am Tag einen Löffel Hustensaft.,Take a spoonful of cough syrup three times a day.,Günde üç kez bir kaşık öksürük şurubu iç.,A1,gesundheit,daily
+2026-10-20,Impfung,die,Impfungen,noun,vaccination,aşı,Die Impfung gegen Grippe macht man im Herbst.,You get the flu vaccination in autumn.,Grip aşısı sonbaharda yaptırılır.,A2,gesundheit,daily
+2026-10-20,Verband,der,Verbände,noun,bandage; dressing,sargı; bandaj,Die Ärztin macht einen Verband um meine Hand.,The doctor puts a bandage around my hand.,Doktor elime sargı sarıyor.,A2,gesundheit,daily
+2026-10-20,Pflaster,das,Pflaster,noun,plaster; band-aid,yara bandı,Hast du ein Pflaster für mich?,Do you have a plaster for me?,Bana verecek bir yara bandın var mı?,A1,gesundheit,daily
+2026-10-20,Spritze,die,Spritzen,noun,injection; syringe,iğne; şırınga,Ich habe Angst vor der Spritze.,I'm afraid of the injection.,İğneden korkuyorum.,A2,gesundheit,daily
+2026-10-20,Infusion,die,Infusionen,noun,IV drip; infusion,serum,Im Krankenhaus bekommt sie eine Infusion.,In hospital she gets an IV drip.,Hastanede ona serum takılıyor.,A2,gesundheit,daily
+2026-10-20,Blutabnahme,die,Blutabnahmen,noun,blood draw; blood test,kan alma,Zur Blutabnahme müssen Sie nüchtern kommen.,For the blood test you must come without eating.,Kan alımına aç karnına gelmelisiniz.,A2,gesundheit,daily
+2026-10-20,Wunde,die,Wunden,noun,wound,yara,Die Wunde ist nicht tief.,The wound is not deep.,Yara derin değil.,A2,gesundheit,daily
+2026-10-20,Rezept,das,Rezepte,noun,prescription; recipe,reçete; yemek tarifi,Der Arzt gibt mir ein Rezept für Tabletten.,The doctor gives me a prescription for tablets.,Doktor bana hap için reçete veriyor.,A1,gesundheit,daily
+2026-10-20,Hausarzt,der,Hausärzte,noun,family doctor; GP (female: die Hausärztin),aile hekimi,"Wenn ich krank bin, gehe ich zum Hausarzt.","When I'm ill, I go to my GP.",Hasta olduğumda aile hekimine giderim.,A1,gesundheit,daily
+2026-10-20,sogar,,,adv,even,hatta; bile,Er arbeitet sogar am Sonntag.,He even works on Sunday.,Pazar günü bile çalışıyor.,A2,alltag,daily
+2026-10-20,ungefähr,,,adv,about; approximately,yaklaşık,Der Termin dauert ungefähr 20 Minuten.,The appointment takes about 20 minutes.,Randevu yaklaşık 20 dakika sürüyor.,A1,alltag,daily
+2026-10-20,dagegen,,,adv,against it; for it (a remedy),buna karşı,Ich habe Kopfschmerzen. Hast du etwas dagegen?,I have a headache. Do you have something for it?,Başım ağrıyor. Buna karşı bir şeyin var mı?,A2,gesundheit,daily
+2026-10-20,gegen,,+ Akkusativ,prep,against; for (a remedy); around (time),-e karşı; civarında (saat),Das Medikament hilft gegen Schmerzen.,The medicine helps against pain.,İlaç ağrıya karşı yardımcı oluyor.,A1,"präposition,gesundheit",daily
+2026-10-20,Bewegung,die,Bewegungen,noun,movement; exercise,hareket; egzersiz,Bewegung ist gut für die Gesundheit.,Exercise is good for your health.,Hareket sağlık için iyidir.,A2,gesundheit,daily
+2026-10-20,Übergewicht,das,,noun,excess weight; being overweight,fazla kilo,Zu wenig Bewegung kann zu Übergewicht führen.,Too little exercise can lead to being overweight.,Az hareket fazla kiloya yol açabilir.,A2,gesundheit,daily
+2026-10-20,Ratschlag,der,Ratschläge,noun,piece of advice; tip,tavsiye; öğüt,Kannst du mir einen Ratschlag geben?,Can you give me some advice?,Bana bir tavsiye verebilir misin?,A2,alltag,daily
+2026-10-20,ziemlich,,,adv,quite; rather,oldukça,Das Wasser ist ziemlich kalt.,The water is quite cold.,Su oldukça soğuk.,A1,alltag,daily
+2026-10-20,komisch,,,adj,strange; funny,garip; tuhaf; komik,Das Essen schmeckt komisch.,The food tastes strange.,Yemeğin tadı tuhaf.,A1,alltag,daily
+2026-10-20,üblich,,,adj,usual; customary,olağan; alışılmış,"In Österreich ist es üblich, Trinkgeld zu geben.",In Austria it is customary to tip.,Avusturya'da bahşiş vermek olağandır.,A2,"alltag,österreich",daily
+2026-10-20,bei uns,,,phrase,where we live; in our country; at our place,bizde; bizim orada,Bei uns in der Türkei trinkt man viel Tee.,"In Turkey, where I come from, people drink a lot of tea.","Bizde, Türkiye'de çok çay içilir.",A1,alltag,daily
+2026-10-20,Liebeskummer,der,,noun,heartache; lovesickness,aşk acısı,Mein Freund hat Liebeskummer.,My friend is heartbroken.,Arkadaşım aşk acısı çekiyor.,A2,gefühle,daily
+2026-10-20,Herz,das,Herzen,noun,heart,kalp,Sport ist gut für das Herz.,Sport is good for the heart.,Spor kalp için iyidir.,A1,körper,daily
+2026-10-20,Krankheit,die,Krankheiten,noun,illness; disease,hastalık,Die Grippe ist eine häufige Krankheit im Winter.,The flu is a common illness in winter.,Grip kışın sık görülen bir hastalıktır.,A1,gesundheit,daily
+2026-10-20,gewinnen,,"gewinne, gewinnst, gewinnt, gewinnen, gewinnt, gewinnen; gewann; hat gewonnen",verb,to win,kazanmak,Wer gewinnt das Spiel?,Who is winning the game?,Maçı kim kazanıyor?,A1,verb,daily
+2026-10-20,jeder / jede / jedes,,"Akk: jeden, jede, jedes; Dat: jedem, jeder, jedem",pron,every; each,her,Ich gehe jeden Tag spazieren.,I go for a walk every day.,Her gün yürüyüşe çıkıyorum.,A1,alltag,daily
+2026-10-20,tun,,"tue, tust, tut, tun, tut, tun; tat; hat getan",verb,to do,yapmak,Was kann ich für Sie tun?,What can I do for you?,Sizin için ne yapabilirim?,A1,verb,daily
+2026-10-20,benutzen,,"benutze, benutzt, benutzt, benutzen, benutzt, benutzen; benutzte; hat benutzt",verb,to use (Austria also: benützen),kullanmak,Ich benutze jeden Tag den Computer.,I use the computer every day.,Her gün bilgisayar kullanıyorum.,A1,verb,daily
+2026-10-20,aufmachen,,"mache auf, machst auf, macht auf, machen auf, macht auf, machen auf; machte auf; hat aufgemacht",verb,to open,açmak,Kannst du bitte das Fenster aufmachen?,Can you please open the window?,Pencereyi açabilir misin lütfen?,A1,verb,daily
+2026-10-20,sein,,"bin, bist, ist, sind, seid, sind; war; ist gewesen",verb,to be (Seien Sie …! = polite command),olmak,Seien Sie bitte pünktlich!,Please be on time!,Lütfen dakik olun!,A1,verb,daily
+2026-10-20,Linsensuppe,die,Linsensuppen,noun,lentil soup,mercimek çorbası,"Wenn ich krank bin, koche ich Linsensuppe.","When I'm ill, I make lentil soup.",Hasta olduğumda mercimek çorbası pişiririm.,A1,essen,daily
+2026-10-20,sollen,,"soll, sollst, soll, sollen, sollt, sollen; sollte; hat gesollt",verb,should; to be supposed to,-meli/-malı; gerekmek,"Der Arzt sagt, ich soll viel Wasser trinken.",The doctor says I should drink a lot of water.,Doktor çok su içmem gerektiğini söylüyor.,A1,"verb,modalverb",daily
+2026-10-20,wollen,,"will, willst, will, wollen, wollt, wollen; wollte; hat gewollt",verb,to want,istemek,Ich will in Wien arbeiten.,I want to work in Vienna.,Viyana'da çalışmak istiyorum.,A1,"verb,modalverb",daily
+2026-10-20,werden,,"werde, wirst, wird, werden, werdet, werden; wurde; ist geworden",verb,to become; will (future),olmak; -ecek/-acak,Bald wird es wieder warm.,Soon it will be warm again.,Yakında hava yine ısınacak.,A1,verb,daily
+2026-10-20,können,,"kann, kannst, kann, können, könnt, können; konnte; hat gekonnt",verb,can; to be able to,-ebilmek,Kannst du mir helfen?,Can you help me?,Bana yardım edebilir misin?,A1,"verb,modalverb",daily
+2026-10-20,Schnupfen,der,,noun,cold; runny nose,nezle; burun akıntısı,Ich habe Schnupfen und Husten.,I have a runny nose and a cough.,Nezlem ve öksürüğüm var.,A1,gesundheit,daily
+2026-10-20,Rückenschmerzen,die,usually plural; singular: der Rückenschmerz,noun,back pain,sırt ağrısı,Von der Gartenarbeit habe ich Rückenschmerzen.,I have back pain from the garden work.,Bahçe işinden sırtım ağrıyor.,A1,gesundheit,daily
+2026-10-20,Kopfschmerzen,die,usually plural; singular: der Kopfschmerz,noun,headache,baş ağrısı,Gegen Kopfschmerzen nehme ich eine Tablette.,I take a tablet for headaches.,Baş ağrısına karşı bir hap alırım.,A1,gesundheit,daily
+2026-10-20,Tablette,die,Tabletten,noun,tablet; pill,tablet; hap,Nehmen Sie zweimal täglich eine Tablette.,Take one tablet twice a day.,Günde iki kez bir tablet alın.,A1,gesundheit,daily
+2026-10-20,Salbe,die,Salben,noun,ointment; cream,merhem,Die Salbe hilft gegen die Schmerzen im Knie.,The ointment helps with the pain in the knee.,Merhem dizdeki ağrıya iyi geliyor.,A2,gesundheit,daily
+2026-10-20,nehmen,,"nehme, nimmst, nimmt, nehmen, nehmt, nehmen; nahm; hat genommen",verb,to take,almak,Ich nehme den Bus zur Arbeit.,I take the bus to work.,İşe otobüsle gidiyorum.,A1,verb,daily
+2026-10-20,aufsetzen,,"setze auf, setzt auf, setzt auf, setzen auf, setzt auf, setzen auf; setzte auf; hat aufgesetzt",verb,"to put on (hat, glasses)","takmak (şapka, gözlük)","Setz den Hut auf, es ist kalt!","Put your hat on, it's cold!","Şapkanı tak, hava soğuk!",A2,verb,daily
+2026-10-20,Hut,der,Hüte,noun,hat,şapka,Mein Opa trägt immer einen Hut.,My grandpa always wears a hat.,Dedem her zaman şapka takar.,A1,alltag,daily
+2026-10-20,Musik,die,,noun,music,müzik,Ich höre beim Kochen gern Musik.,I like listening to music while cooking.,Yemek yaparken müzik dinlemeyi severim.,A1,alltag,daily
+2026-10-20,E-Mail,die,E-Mails,noun,e-mail (Austria also: das E-Mail),e-posta,Ich schreibe der Chefin eine E-Mail.,I'm writing an e-mail to the boss.,Müdüre bir e-posta yazıyorum.,A1,"büro,österreich",daily
+2026-10-20,regelmäßig,,,adj,regular; regularly,düzenli,Ich mache regelmäßig Sport.,I do sport regularly.,Düzenli olarak spor yapıyorum.,A2,alltag,daily
+2026-10-20,Chefin,die,Chefinnen,noun,boss; manager (female),patron; müdür (kadın),Meine Chefin ist heute krank.,My boss is ill today.,Müdürüm bugün hasta.,A1,arbeit,daily
+2026-10-20,Medikament,das,Medikamente,noun,medicine; medication,ilaç,Das Medikament bekommst du in der Apotheke.,You get the medicine at the pharmacy.,İlacı eczaneden alırsın.,A1,gesundheit,daily
+2026-10-20,beim,,= bei + dem,prep,at the; while (doing),-de/-da; -ken,"Ich bin beim Arzt, und beim Warten lese ich.","I'm at the doctor's, and while waiting I read.","Doktordayım, beklerken kitap okuyorum.",A1,präposition,daily
+2026-10-20,Tropfen,der,Tropfen,noun,drop (e.g. ear drops),damla,Die Tropfen sind für die Ohren.,The drops are for the ears.,Damlalar kulak için.,A2,gesundheit,daily
+2026-10-20,Hühnersuppe,die,Hühnersuppen,noun,chicken soup,tavuk çorbası,Bei einer Erkältung hilft eine heiße Hühnersuppe.,Hot chicken soup helps with a cold.,Soğuk algınlığında sıcak tavuk çorbası iyi gelir.,A1,"essen,gesundheit",daily
+2026-10-20,Haus,das,Häuser,noun,house,ev,Wir wohnen in einem alten Haus.,We live in an old house.,Eski bir evde oturuyoruz.,A1,wohnen,daily
+2026-10-20,Geschäft,das,Geschäfte,noun,shop; business,dükkân; mağaza; iş,Die Geschäfte sind am Sonntag geschlossen.,The shops are closed on Sunday.,Dükkânlar pazar günü kapalı.,A1,stadt,daily
+2026-10-20,Fluss,der,Flüsse,noun,river,nehir,Die Donau ist ein großer Fluss.,The Danube is a big river.,Tuna büyük bir nehirdir.,A1,natur,daily
+2026-10-20,Meer,das,Meere,noun,sea,deniz,Istanbul liegt am Meer.,Istanbul is by the sea.,İstanbul deniz kenarındadır.,A1,natur,daily
+2026-10-20,Mietpreis,der,Mietpreise,noun,rent (price),kira bedeli,Die Mietpreise in Wien steigen.,Rents in Vienna are rising.,Viyana'da kira fiyatları artıyor.,A2,wohnen,daily
+2026-10-20,Überschrift,die,Überschriften,noun,headline; heading,başlık,Lies zuerst die Überschrift.,Read the headline first.,Önce başlığı oku.,A1,alltag,daily
+2026-10-20,manche,,"plural; singular: mancher, manche, manches",pron,some; quite a few,bazı,Manche Leute trinken keinen Kaffee.,Some people don't drink coffee.,Bazı insanlar kahve içmez.,A2,alltag,daily
+2026-10-20,Leute,die,plural only,noun,people,insanlar,Im Park sind viele Leute.,There are many people in the park.,Parkta çok insan var.,A1,alltag,daily
+2026-10-20,verrückt,,,adj,crazy,deli; çılgın,Du willst bei diesem Wetter schwimmen? Bist du verrückt?,You want to swim in this weather? Are you crazy?,Bu havada yüzmek mi istiyorsun? Deli misin?,A2,gefühle,daily
+2026-10-20,denken,,"denke, denkst, denkt, denken, denkt, denken; dachte; hat gedacht",verb,to think,düşünmek,Ich denke oft an meine Familie.,I often think of my family.,Sık sık ailemi düşünürüm.,A1,verb,daily
+2026-10-20,Park,der,Parks,noun,park,park,Am Wochenende gehe ich in den Park.,At the weekend I go to the park.,Hafta sonu parka giderim.,A1,stadt,daily
+2026-10-20,Moschee,die,Moscheen,noun,mosque,cami,Die Moschee ist neben dem Park.,The mosque is next to the park.,Cami parkın yanında.,A1,stadt,daily
+2026-10-20,Kirche,die,Kirchen,noun,church,kilise,Der Stephansdom ist die bekannteste Kirche in Wien.,St. Stephen's Cathedral is the best-known church in Vienna.,"Stephansdom, Viyana'nın en bilinen kilisesidir.",A1,"stadt,wien",daily
+2026-10-20,Feige,die,Feigen,noun,fig,incir,Im Sommer esse ich gern frische Feigen.,In summer I like eating fresh figs.,Yazın taze incir yemeyi severim.,A1,essen,daily
+2026-10-20,Berg,der,Berge,noun,mountain,dağ,Am Wochenende fahren wir in die Berge.,At the weekend we are going to the mountains.,Hafta sonu dağlara gidiyoruz.,A1,natur,daily
+2026-10-20,Verkehr,der,,noun,traffic,trafik,In Istanbul gibt es viel Verkehr.,There is a lot of traffic in Istanbul.,İstanbul'da çok trafik var.,A1,stadt,daily
+2026-10-20,Bucht,die,Buchten,noun,bay,koy,Das Hotel liegt an einer schönen Bucht.,The hotel is on a beautiful bay.,Otel güzel bir koyda.,A2,natur,daily
+2026-10-20,Wald,der,Wälder,noun,forest; woods,orman,Der Wienerwald ist ein großer Wald bei Wien.,The Vienna Woods is a big forest near Vienna.,"Viyana Ormanı, Viyana yakınlarında büyük bir ormandır.",A1,"natur,wien",daily
+2026-10-20,Museum,das,Museen,noun,museum,müze,Am Sonntag gehen wir ins Museum.,On Sunday we're going to the museum.,Pazar günü müzeye gidiyoruz.,A1,stadt,daily
+2026-10-20,stehen,,"stehe, stehst, steht, stehen, steht, stehen; stand; hat gestanden (AT: ist gestanden)",verb,to stand (upright),durmak; ayakta durmak,Die Lampe steht neben dem Sofa.,The lamp is next to the sofa.,Lamba kanepenin yanında duruyor.,A1,"verb,wohnen",daily
+2026-10-20,liegen,,"liege, liegst, liegt, liegen, liegt, liegen; lag; hat gelegen (AT: ist gelegen)",verb,to lie (flat); to be located,yatmak; bulunmak,Der Teppich liegt auf dem Boden.,The carpet is on the floor.,Halı yerde serili.,A1,"verb,wohnen",daily
+2026-10-20,hängen,,"hänge, hängst, hängt, hängen, hängt, hängen; hing; hat gehangen (AT: ist gehangen)",verb,to hang; to be hanging,asılı olmak; asmak,Das Bild hängt an der Wand.,The picture is hanging on the wall.,Resim duvarda asılı.,A1,"verb,wohnen",daily
+2026-10-20,Wand,die,Wände,noun,wall,duvar,Die Wand im Wohnzimmer ist weiß.,The wall in the living room is white.,Oturma odasındaki duvar beyaz.,A1,wohnen,daily
+2026-10-20,Teppich,der,Teppiche,noun,carpet; rug,halı,Der Teppich ist aus der Türkei.,The carpet is from Turkey.,Halı Türkiye'den.,A1,wohnen,daily
+2026-10-20,Computer,der,Computer,noun,computer,bilgisayar,Der Computer steht auf dem Schreibtisch.,The computer is on the desk.,Bilgisayar çalışma masasının üstünde.,A1,büro,daily
+2026-10-20,Bild,das,Bilder,noun,picture,resim,Über dem Sofa hängt ein großes Bild.,A big picture hangs above the sofa.,Kanepenin üstünde büyük bir resim asılı.,A1,wohnen,daily
+2026-10-20,Stuhl,der,Stühle,noun,chair,sandalye,Der Stuhl steht hinter dem Tisch.,The chair is behind the table.,Sandalye masanın arkasında.,A1,wohnen,daily
+2026-10-20,Sofa,das,Sofas,noun,sofa,kanepe,Am Abend sitze ich auf dem Sofa und lese.,In the evening I sit on the sofa and read.,Akşam kanepede oturup okurum.,A1,wohnen,daily
+2026-10-20,Bücherregal,das,Bücherregale,noun,bookshelf,kitaplık,Das Bücherregal steht zwischen dem Fenster und der Tür.,The bookshelf is between the window and the door.,Kitaplık pencere ile kapının arasında.,A1,wohnen,daily
+2026-10-20,Fernseher,der,Fernseher,noun,TV set,televizyon,Der Fernseher steht auf dem Fernsehtisch.,The TV is on the TV stand.,Televizyon televizyon sehpasının üstünde.,A1,wohnen,daily
+2026-10-20,Fenster,das,Fenster,noun,window,pencere,Das Fenster ist offen.,The window is open.,Pencere açık.,A1,wohnen,daily
+2026-10-20,Lampe,die,Lampen,noun,lamp,lamba,Die Lampe hängt über dem Tisch.,The lamp hangs above the table.,Lamba masanın üstünde asılı.,A1,wohnen,daily
+2026-10-20,Boden,der,Böden,noun,floor; ground,yer; zemin,Die Kinder sitzen auf dem Boden.,The children are sitting on the floor.,Çocuklar yerde oturuyor.,A1,wohnen,daily
+2026-10-20,Zimmer,das,Zimmer,noun,room,oda,Die Wohnung hat drei Zimmer.,The apartment has three rooms.,Dairenin üç odası var.,A1,wohnen,daily
+2026-10-20,Wohnzimmer,das,Wohnzimmer,noun,living room,oturma odası,Wir sehen im Wohnzimmer fern.,We watch TV in the living room.,Oturma odasında televizyon izliyoruz.,A1,wohnen,daily
+2026-10-20,Wohnküche,die,Wohnküchen,noun,eat-in kitchen; kitchen-living room,Amerikan mutfak; mutfaklı salon,Die Wohnung hat eine große Wohnküche.,The apartment has a large eat-in kitchen.,Dairede büyük bir Amerikan mutfak var.,A2,wohnen,daily
+2026-10-20,Schlafzimmer,das,Schlafzimmer,noun,bedroom,yatak odası,"Das Schlafzimmer ist klein, aber sehr ruhig.",The bedroom is small but very quiet.,Yatak odası küçük ama çok sessiz.,A1,wohnen,daily
+2026-10-20,Fernsehtisch,der,Fernsehtische,noun,TV stand,televizyon sehpası,Der Fernsehtisch ist aus Holz.,The TV stand is made of wood.,Televizyon sehpası ahşaptan.,A1,wohnen,daily
+2026-10-20,Vorhang,der,Vorhänge,noun,curtain,perde,Mach bitte die Vorhänge zu!,Please close the curtains!,Lütfen perdeleri kapat!,A1,wohnen,daily
+2026-10-20,Erinnerung,die,Erinnerungen,noun,memory; reminder,anı; hatıra; hatırlatma,Ich habe schöne Erinnerungen an Istanbul.,I have lovely memories of Istanbul.,İstanbul'la ilgili güzel anılarım var.,A2,gefühle,daily
+2026-10-20,ordentlich,,,adj,tidy; neat; proper,derli toplu; düzenli,Mein Zimmer ist immer ordentlich.,My room is always tidy.,Odam her zaman derli toplu.,A2,wohnen,daily
+2026-10-20,Fliese,die,Fliesen,noun,tile,fayans; karo,Im Bad sind die Fliesen weiß.,In the bathroom the tiles are white.,Banyoda fayanslar beyaz.,A2,wohnen,daily
+2026-10-20,laut,,,adj,loud; noisy,gürültülü; yüksek sesli,Die Straße ist sehr laut.,The street is very noisy.,Sokak çok gürültülü.,A1,wohnen,daily
+2026-10-20,leise,,,adj,quiet; soft (sound),sessiz; alçak sesle,"Bitte sprich leise, das Baby schläft.","Please speak quietly, the baby is sleeping.","Lütfen alçak sesle konuş, bebek uyuyor.",A1,wohnen,daily
+2026-10-20,ruhig,,,adj,calm; quiet,sakin; sessiz,Die Wohnung liegt in einer ruhigen Straße.,The apartment is on a quiet street.,Daire sakin bir sokakta.,A1,wohnen,daily
+2026-10-20,Bett,das,Betten,noun,bed,yatak,Ich gehe um elf Uhr ins Bett.,I go to bed at eleven o'clock.,Saat on birde yatarım.,A1,wohnen,daily
+2026-10-20,Angst,die,Ängste,noun,fear (Angst haben vor + Dativ),korku,Ich habe Angst vor Spinnen.,I'm afraid of spiders.,Örümceklerden korkarım.,A1,gefühle,daily
+2026-10-20,Notdienst,der,Notdienste,noun,emergency service,acil servis; nöbetçi servis,Die Heizung ist kaputt. Wir rufen den Notdienst an.,The heating is broken. We're calling the emergency service.,Kalorifer bozuk. Acil servisi arıyoruz.,A2,wohnen,daily
+2026-10-20,Handwerker,der,Handwerker,noun,tradesman; repairman,usta; tamirci,Der Handwerker kommt morgen um neun.,The repairman is coming tomorrow at nine.,Usta yarın dokuzda geliyor.,A2,wohnen,daily
+2026-10-20,reparieren,,"repariere, reparierst, repariert, reparieren, repariert, reparieren; reparierte; hat repariert",verb,to repair,tamir etmek,Kannst du die Lampe reparieren?,Can you repair the lamp?,Lambayı tamir edebilir misin?,A1,"verb,wohnen",daily
+2026-10-20,Möbel,das,Möbel,noun,piece of furniture (mostly plural: die Möbel = furniture),mobilya,Die Möbel sind neu.,The furniture is new.,Mobilyalar yeni.,A1,wohnen,daily
+2026-10-20,Spinne,die,Spinnen,noun,spider,örümcek,Da ist eine Spinne an der Decke!,There's a spider on the ceiling!,Tavanda bir örümcek var!,A1,wohnen,daily
+2026-10-20,Zahnarzt,der,Zahnärzte,noun,dentist (female: die Zahnärztin),diş hekimi,Ich habe morgen einen Termin beim Zahnarzt.,I have a dentist appointment tomorrow.,Yarın diş hekiminde randevum var.,A1,gesundheit,daily
+2026-10-20,vor,,"Wechselpräposition: wo? + Dativ, wohin? + Akkusativ; time: + Dativ",prep,in front of; before; ago,önünde; önce,Das Auto steht vor dem Haus.,The car is in front of the house.,Araba evin önünde duruyor.,A1,präposition,daily
+2026-10-20,nach,,+ Dativ,prep,"after; to (cities, countries, home)",sonra; -e/-a (yön),Nach der Arbeit fahre ich nach Hause.,After work I go home.,İşten sonra eve gidiyorum.,A1,präposition,daily
+2026-10-20,zwischen,,"Wechselpräposition: wo? + Dativ, wohin? + Akkusativ",prep,between,arasında,Die Lampe steht zwischen dem Sofa und dem Regal.,The lamp is between the sofa and the shelf.,Lamba kanepe ile rafın arasında.,A1,präposition,daily
+2026-10-20,Bier,das,Biere,noun,beer,bira,"Ein Bier, bitte!","A beer, please!","Bir bira, lütfen!",A1,essen,daily
+2026-10-20,auf jeden Fall,,,phrase,definitely; in any case,kesinlikle; her halükârda,Ich komme auf jeden Fall zu deiner Party.,I'm definitely coming to your party.,Partine kesinlikle geleceğim.,A2,alltag,daily
+2026-10-20,auf keinen Fall,,,phrase,under no circumstances; definitely not,asla; hiçbir şekilde,Mit Fieber gehst du auf keinen Fall zur Arbeit!,With a fever you're definitely not going to work!,Ateşin varken asla işe gitmiyorsun!,A2,alltag,daily
+2026-10-20,unbedingt,,,adv,absolutely; definitely,mutlaka,Du musst unbedingt zum Arzt gehen.,You absolutely must go to the doctor.,Mutlaka doktora gitmelisin.,A2,alltag,daily
+2026-10-20,Dessert,das,Desserts,noun,dessert,tatlı,Als Dessert gibt es Apfelstrudel.,For dessert there's apple strudel.,Tatlı olarak elmalı strudel var.,A1,essen,daily
+2026-10-20,Erkältung,die,Erkältungen,noun,cold (illness),soğuk algınlığı,Ich habe eine Erkältung und bleibe zu Hause.,I have a cold and I'm staying at home.,"Soğuk algınlığım var, evde kalıyorum.",A1,gesundheit,daily
+2026-10-20,Spaziergang,der,Spaziergänge,noun,walk; stroll,yürüyüş; gezinti,Nach dem Essen machen wir einen Spaziergang.,After eating we go for a walk.,Yemekten sonra yürüyüşe çıkıyoruz.,A1,alltag,daily
+2026-10-20,Kantine,die,Kantinen,noun,canteen,yemekhane,Mittags esse ich in der Kantine.,At lunchtime I eat in the canteen.,Öğlen yemekhanede yemek yerim.,A1,büro,daily
+2026-10-20,Teeküche,die,Teeküchen,noun,office kitchenette,ofis mutfağı; çay ocağı,Die Kaffeemaschine ist in der Teeküche.,The coffee machine is in the kitchenette.,Kahve makinesi çay ocağında.,A2,büro,daily
+2026-10-20,Treppe,die,Treppen,noun,stairs; staircase (Austria: die Stiege),merdiven,"Ich nehme die Treppe, nicht den Aufzug.","I take the stairs, not the lift.","Asansörü değil, merdiveni kullanıyorum.",A1,"wohnen,österreich",daily
+2026-10-20,Ordner,der,Ordner,noun,folder; binder,klasör,Die Rechnungen sind im blauen Ordner.,The invoices are in the blue folder.,Faturalar mavi klasörde.,A1,büro,daily
+2026-10-20,Textmarker,der,Textmarker,noun,highlighter,fosforlu kalem,Ich markiere wichtige Wörter mit dem Textmarker.,I mark important words with the highlighter.,Önemli kelimeleri fosforlu kalemle işaretliyorum.,A2,büro,daily
+2026-10-20,Schere,die,Scheren,noun,scissors,makas,Die Schere liegt in der Schublade.,The scissors are in the drawer.,Makas çekmecede.,A1,büro,daily
+2026-10-20,Briefumschlag,der,Briefumschläge,noun,envelope (Austria: das Kuvert),zarf,Ich brauche einen Briefumschlag und eine Briefmarke.,I need an envelope and a stamp.,Bir zarfa ve bir pula ihtiyacım var.,A1,"büro,österreich",daily
+2026-10-20,Tacker,der,Tacker,noun,stapler,zımba,Wo ist der Tacker?,Where is the stapler?,Zımba nerede?,A2,büro,daily
+2026-10-20,Locher,der,Locher,noun,hole punch,delgeç,Mit dem Locher mache ich Löcher ins Papier.,With the hole punch I make holes in the paper.,Delgeçle kâğıda delik açarım.,A2,büro,daily
+2026-10-20,Headset,das,Headsets,noun,headset,kulaklıklı mikrofon,Für Videokonferenzen benutze ich ein Headset.,I use a headset for video calls.,Görüntülü toplantılar için kulaklıklı mikrofon kullanıyorum.,A2,büro,daily
+2026-10-20,Lautsprecher,der,Lautsprecher,noun,loudspeaker,hoparlör,Der Lautsprecher ist zu laut.,The loudspeaker is too loud.,Hoparlörün sesi çok yüksek.,A2,büro,daily
+2026-10-20,Papierkorb,der,Papierkörbe,noun,wastepaper basket,çöp kutusu (kâğıt),Der Papierkorb steht unter dem Schreibtisch.,The wastepaper basket is under the desk.,Çöp kutusu çalışma masasının altında.,A1,büro,daily
+2026-10-20,Regenschirm,der,Regenschirme,noun,umbrella,şemsiye,"Nimm einen Regenschirm mit, es regnet!","Take an umbrella, it's raining!","Yanına şemsiye al, yağmur yağıyor!",A1,alltag,daily
+2026-10-20,Blume,die,Blumen,noun,flower,çiçek,Auf dem Tisch steht eine Vase mit Blumen.,On the table there's a vase of flowers.,Masada çiçekli bir vazo var.,A1,wohnen,daily
+2026-10-20,Gitarre,die,Gitarren,noun,guitar,gitar,Mein Bruder spielt Gitarre.,My brother plays the guitar.,Kardeşim gitar çalıyor.,A1,alltag,daily
+2026-10-20,Kamera,die,Kameras,noun,camera,kamera; fotoğraf makinesi,Die Kamera liegt in meiner Tasche.,The camera is in my bag.,Kamera çantamda.,A1,alltag,daily
+2026-10-20,in,,"Wechselpräposition: wo? + Dativ, wohin? + Akkusativ",prep,in; into,içinde; içine,Ich wohne in Wien. Ich gehe in die Küche.,I live in Vienna. I'm going into the kitchen.,Viyana'da oturuyorum. Mutfağa gidiyorum.,A1,präposition,daily
+2026-10-20,an,,"Wechselpräposition: wo? + Dativ, wohin? + Akkusativ",prep,"at; on (a wall, vertical surface); by (water)",-de; üzerinde (dikey yüzey); kenarında,Ich hänge die Uhr an die Wand.,I'm hanging the clock on the wall.,Saati duvara asıyorum.,A1,präposition,daily
+2026-10-20,auf,,"Wechselpräposition: wo? + Dativ, wohin? + Akkusativ",prep,on (top of),üstünde; üstüne,Ich lege das Buch auf den Tisch.,I'm putting the book on the table.,Kitabı masanın üstüne koyuyorum.,A1,präposition,daily
+2026-10-20,neben,,"Wechselpräposition: wo? + Dativ, wohin? + Akkusativ",prep,next to; beside,yanında; yanına,Der Supermarkt ist neben der Apotheke.,The supermarket is next to the pharmacy.,Süpermarket eczanenin yanında.,A1,präposition,daily
+2026-10-20,hinter,,"Wechselpräposition: wo? + Dativ, wohin? + Akkusativ",prep,behind,arkasında; arkasına,Der Garten ist hinter dem Haus.,The garden is behind the house.,Bahçe evin arkasında.,A1,präposition,daily
+2026-10-20,über,,"Wechselpräposition: wo? + Dativ, wohin? + Akkusativ; about: + Akkusativ",prep,above; over; about,üstünde (temas etmeden); hakkında,Über dem Bett hängt eine Lampe.,A lamp hangs above the bed.,Yatağın üstünde bir lamba asılı.,A1,präposition,daily
+2026-10-20,unter,,"Wechselpräposition: wo? + Dativ, wohin? + Akkusativ",prep,under; below,altında; altına,Die Katze schläft unter dem Bett.,The cat sleeps under the bed.,Kedi yatağın altında uyuyor.,A1,präposition,daily
+2026-10-20,mit,,+ Dativ,prep,with; by (transport),ile; -le/-la,Ich fahre mit der U-Bahn zur Arbeit.,I go to work by underground.,İşe metroyla gidiyorum.,A1,präposition,daily
+2026-10-20,bei,,+ Dativ,prep,at (someone's place); near; at (a company),-de/-da (birinin yanında); yakınında,Heute Abend esse ich bei meinen Freunden.,Tonight I'm eating at my friends' place.,Bu akşam arkadaşlarımda yemek yiyorum.,A1,präposition,daily
+2026-10-20,zu,,"+ Dativ (zum = zu dem, zur = zu der)",prep,"to (people, places)","-e/-a (birine, bir yere)",Ich gehe zum Arzt.,I'm going to the doctor.,Doktora gidiyorum.,A1,präposition,daily
+2026-10-20,aus,,+ Dativ,prep,from; out of,-den/-dan; içinden,Ich komme aus der Türkei.,I come from Turkey.,Türkiye'denim.,A1,präposition,daily
+2026-10-20,ohne,,+ Akkusativ,prep,without,-sız/-siz; olmadan,Ich trinke Kaffee ohne Zucker.,I drink coffee without sugar.,Kahveyi şekersiz içerim.,A1,präposition,daily
+2026-10-20,gefallen,,"gefalle, gefällst, gefällt, gefallen, gefallt, gefallen; gefiel; hat gefallen",verb,to like; to please (+ Dativ: Das gefällt mir.),hoşuna gitmek; beğenmek,Die Wohnung gefällt mir sehr.,I really like the apartment.,Daire çok hoşuma gidiyor.,A1,verb,daily
+2026-10-20,gehören,,"gehöre, gehörst, gehört, gehören, gehört, gehören; gehörte; hat gehört",verb,to belong to (+ Dativ),-e ait olmak,Gehört der Regenschirm dir?,Does the umbrella belong to you?,Şemsiye senin mi?,A1,verb,daily
+2026-10-20,helfen,,"helfe, hilfst, hilft, helfen, helft, helfen; half; hat geholfen",verb,to help (+ Dativ),yardım etmek,Kannst du mir beim Umzug helfen?,Can you help me with the move?,Taşınırken bana yardım edebilir misin?,A1,verb,daily
+2026-10-20,da,,,adv,there; here,orada; burada,Ist Herr Huber da?,Is Mr Huber there?,Bay Huber burada mı?,A1,alltag,daily
+2026-10-20,Akku,der,Akkus,noun,rechargeable battery,şarjlı pil; batarya,Der Akku von meinem Handy ist fast leer.,My phone battery is almost empty.,Telefonumun şarjı neredeyse bitti.,A1,alltag,daily
+2026-10-20,Kaufhaus,das,Kaufhäuser,noun,department store,büyük mağaza,Das Kaufhaus ist in der Mariahilfer Straße.,The department store is on Mariahilfer Straße.,Büyük mağaza Mariahilfer Caddesi'nde.,A1,"stadt,wien",daily
+2026-10-20,weit,,,adj,far; wide,uzak; geniş,Ist der Bahnhof weit von hier?,Is the station far from here?,İstasyon buradan uzak mı?,A1,stadt,daily
+2026-10-20,geradeaus,,,adv,straight ahead,dümdüz; düz,Gehen Sie geradeaus und dann links.,Go straight ahead and then left.,"Dümdüz gidin, sonra sola dönün.",A1,stadt,daily
+2026-10-20,links,,,adv,left; on the left,sol; solda; sola,Die Apotheke ist links.,The pharmacy is on the left.,Eczane solda.,A1,stadt,daily
+2026-10-20,rechts,,,adv,right; on the right,sağ; sağda; sağa,An der Ampel gehen Sie rechts.,At the traffic lights go right.,Trafik ışığında sağa dönün.,A1,stadt,daily
+2026-10-20,Ampel,die,Ampeln,noun,traffic light,trafik ışığı,"Die Ampel ist rot, wir warten.","The light is red, we're waiting.","Işık kırmızı, bekliyoruz.",A1,stadt,daily
+2026-10-20,Miete,die,Mieten,noun,rent,kira,Die Miete ist 900 Euro im Monat.,The rent is 900 euros a month.,Kira ayda 900 avro.,A1,wohnen,daily
+2026-10-20,Eigentumswohnung,die,Eigentumswohnungen,noun,owner-occupied flat; condo,kendine ait daire; mülk daire,"Sie wohnen nicht zur Miete, sie haben eine Eigentumswohnung.",They don't rent; they own their flat.,"Kirada oturmuyorlar, kendilerine ait bir daireleri var.",A2,wohnen,daily
+2026-10-20,Erdgeschoss,das,Erdgeschosse,noun,ground floor (Austria: das Erdgeschoß),zemin kat,Die Bäckerei ist im Erdgeschoss.,The bakery is on the ground floor.,Fırın zemin katta.,A1,"wohnen,österreich",daily
+2026-10-20,Kellner,der,Kellner,noun,waiter (Austria also: der Ober),garson,Der Kellner bringt die Speisekarte.,The waiter brings the menu.,Garson menüyü getiriyor.,A1,"essen,österreich",daily
+2026-10-20,Dachgeschoss,das,Dachgeschosse,noun,top floor; attic floor (Austria: das Dachgeschoß),çatı katı,Unsere Wohnung ist im Dachgeschoss.,Our flat is on the top floor.,Dairemiz çatı katında.,A2,"wohnen,österreich",daily
+2026-10-20,traurig,,,adj,sad,üzgün,Warum bist du so traurig?,Why are you so sad?,Neden bu kadar üzgünsün?,A1,gefühle,daily
+2026-10-20,lustig,,,adj,funny; fun,komik; eğlenceli,Der Film war sehr lustig.,The film was very funny.,Film çok komikti.,A1,gefühle,daily
+2026-10-20,langweilig,,,adj,boring,sıkıcı,Die Besprechung war langweilig.,The meeting was boring.,Toplantı sıkıcıydı.,A1,gefühle,daily
+2026-10-20,zurück,,,adv,back,geri,Ich bin um sechs Uhr zurück.,I'll be back at six.,Saat altıda dönerim.,A1,alltag,daily
+2026-10-20,selbstständig,,,adj,self-employed; independent (also: selbständig),serbest çalışan; bağımsız,"Meine Schwester ist selbstständig, sie hat ein eigenes Geschäft.",My sister is self-employed; she has her own shop.,"Kız kardeşim serbest çalışıyor, kendi dükkânı var.",A2,arbeit,daily
+2026-10-20,Halbtagsstelle,die,Halbtagsstellen,noun,half-day job; part-time job,yarım günlük iş,Sie sucht eine Halbtagsstelle am Vormittag.,She's looking for a half-day job in the mornings.,Sabahları yarım günlük bir iş arıyor.,A2,arbeit,daily
+2026-10-20,Schulabschluss,der,Schulabschlüsse,noun,school-leaving qualification,okul diploması; okul bitirme,Nach dem Schulabschluss möchte er studieren.,After finishing school he wants to go to university.,Okulu bitirdikten sonra üniversitede okumak istiyor.,A2,arbeit,daily
+2026-10-20,bedeuten,,"bedeute, bedeutest, bedeutet, bedeuten, bedeutet, bedeuten; bedeutete; hat bedeutet",verb,to mean,anlamına gelmek,Was bedeutet dieses Wort?,What does this word mean?,Bu kelime ne anlama geliyor?,A1,verb,daily
+2026-10-20,ganz,,,adj,whole; quite; completely,bütün; tamamen; oldukça,Ich habe den ganzen Tag gearbeitet.,I worked the whole day.,Bütün gün çalıştım.,A1,alltag,daily
+2026-10-20,Fieber,das,,noun,fever; temperature,ateş,Das Kind hat 39 Grad Fieber.,The child has a temperature of 39 degrees.,Çocuğun 39 derece ateşi var.,A1,gesundheit,daily
+2026-10-20,krank,,,adj,ill; sick,hasta,Ich bin krank und bleibe im Bett.,I'm ill and staying in bed.,"Hastayım, yatakta kalıyorum.",A1,gesundheit,daily
+2026-10-20,gesund,,,adj,healthy,sağlıklı,Gemüse ist gesund.,Vegetables are healthy.,Sebze sağlıklıdır.,A1,gesundheit,daily
+2026-10-20,Apotheke,die,Apotheken,noun,pharmacy,eczane,Die Apotheke hat bis 18 Uhr offen.,The pharmacy is open until 6 pm.,Eczane saat 18'e kadar açık.,A1,"gesundheit,stadt",daily
+2026-10-20,Grippe,die,Grippen,noun,flu,grip,Er hat Grippe und kann nicht kommen.,He has the flu and can't come.,"Gribi var, gelemiyor.",A1,gesundheit,daily
+2026-10-20,wehtun,,"tue weh, tust weh, tut weh, tun weh, tut weh, tun weh; tat weh; hat wehgetan",verb,to hurt (Mir tut … weh.),ağrımak; acımak,Mir tut der Kopf weh.,My head hurts.,Başım ağrıyor.,A1,"verb,gesundheit",daily
+2026-10-20,Arzt,der,Ärzte,noun,doctor (female: die Ärztin),doktor; hekim,Der Arzt untersucht meinen Hals.,The doctor examines my throat.,Doktor boğazımı muayene ediyor.,A1,gesundheit,daily
+2026-10-20,Ordination,die,Ordinationen,noun,doctor's surgery (Austria; Germany: die Praxis),muayenehane,Die Ordination ist am Mittwochnachmittag geschlossen.,The surgery is closed on Wednesday afternoon.,Muayenehane çarşamba öğleden sonra kapalı.,A2,"gesundheit,österreich",daily
+2026-10-20,e-card,die,e-cards,noun,Austrian health insurance card,sağlık sigortası kartı (Avusturya),Bitte bringen Sie Ihre e-card mit.,Please bring your e-card.,Lütfen e-card'ınızı yanınızda getirin.,A1,"gesundheit,österreich",daily
+2026-10-20,Halsschmerzen,die,usually plural; singular: der Halsschmerz,noun,sore throat (Austria also: das Halsweh),boğaz ağrısı,Gegen Halsschmerzen trinke ich Tee mit Honig.,For a sore throat I drink tea with honey.,Boğaz ağrısına karşı ballı çay içerim.,A1,"gesundheit,österreich",daily
+2026-10-20,müde,,,adj,tired,yorgun,Nach der Arbeit bin ich oft müde.,After work I'm often tired.,İşten sonra çoğu zaman yorgun olurum.,A1,gefühle,daily
+2026-10-20,müssen,,"muss, musst, muss, müssen, müsst, müssen; musste; hat gemusst",verb,must; to have to,-meli/-malı; zorunda olmak,Ich muss morgen früh aufstehen.,I have to get up early tomorrow.,Yarın erken kalkmam lazım.,A1,"verb,modalverb",daily
+2026-10-20,dürfen,,"darf, darfst, darf, dürfen, dürft, dürfen; durfte; hat gedurft",verb,may; to be allowed to,izinli olmak; -ebilmek (izin),Hier darf man nicht rauchen.,You're not allowed to smoke here.,Burada sigara içmek yasak.,A1,"verb,modalverb",daily
+2026-10-20,Tisch,der,Tische,noun,table,masa,Das Essen steht auf dem Tisch.,The food is on the table.,Yemek masada.,A1,wohnen,daily
+2026-10-20,Schrank,der,Schränke,noun,cupboard; wardrobe (Austria also: der Kasten),dolap,Die Kleider hängen im Schrank.,The clothes hang in the wardrobe.,Elbiseler dolapta asılı.,A1,"wohnen,österreich",daily
+2026-10-20,Kühlschrank,der,Kühlschränke,noun,fridge,buzdolabı,Die Milch ist im Kühlschrank.,The milk is in the fridge.,Süt buzdolabında.,A1,wohnen,daily
+2026-10-20,Küche,die,Küchen,noun,kitchen; cuisine,mutfak,"Die Küche ist klein, aber hell.",The kitchen is small but bright.,Mutfak küçük ama aydınlık.,A1,wohnen,daily
+2026-10-20,Badezimmer,das,Badezimmer,noun,bathroom,banyo,Das Badezimmer hat ein Fenster.,The bathroom has a window.,Banyonun bir penceresi var.,A1,wohnen,daily
+2026-10-20,Tür,die,Türen,noun,door,kapı,Mach bitte die Tür zu!,Please close the door!,Lütfen kapıyı kapat!,A1,wohnen,daily
+2026-10-20,stellen,,"stelle, stellst, stellt, stellen, stellt, stellen; stellte; hat gestellt",verb,to put (upright); wohin? + Akkusativ,koymak (dik olarak),Ich stelle die Lampe neben das Sofa.,I put the lamp next to the sofa.,Lambayı kanepenin yanına koyuyorum.,A1,"verb,wohnen",daily
+2026-10-20,legen,,"lege, legst, legt, legen, legt, legen; legte; hat gelegt",verb,to put; to lay (flat); wohin? + Akkusativ,koymak; yatırmak; sermek,Ich lege den Teppich auf den Boden.,I lay the carpet on the floor.,Halıyı yere seriyorum.,A1,"verb,wohnen",daily
+2026-10-20,umziehen,,"ziehe um, ziehst um, zieht um, ziehen um, zieht um, ziehen um; zog um; ist umgezogen",verb,to move (house),taşınmak,Im Sommer ziehen wir in eine größere Wohnung um.,In summer we're moving to a bigger flat.,Yazın daha büyük bir daireye taşınıyoruz.,A1,"verb,wohnen",daily
+2026-10-20,Vermieter,der,Vermieter,noun,landlord (female: die Vermieterin),ev sahibi,Der Vermieter repariert die Heizung.,The landlord is repairing the heating.,Ev sahibi kaloriferi tamir ediyor.,A2,wohnen,daily
+2026-10-20,hell,,,adj,bright; light,aydınlık; açık (renk),Das Wohnzimmer ist schön hell.,The living room is nice and bright.,Oturma odası güzel ve aydınlık.,A1,wohnen,daily
+2026-10-20,dunkel,,,adj,dark,karanlık; koyu,Im Winter ist es um fünf Uhr schon dunkel.,In winter it's already dark at five.,Kışın saat beşte hava kararmış olur.,A1,wohnen,daily
+2026-10-20,Straße,die,Straßen,noun,street; road,sokak; cadde,Wir wohnen in der Mozartstraße.,We live on Mozartstraße.,Mozart Caddesi'nde oturuyoruz.,A1,stadt,daily
+2026-10-20,Kreuzung,die,Kreuzungen,noun,junction; crossroads,kavşak,An der Kreuzung gehen Sie links.,At the junction go left.,Kavşakta sola dönün.,A1,stadt,daily
+2026-10-20,Haltestelle,die,Haltestellen,noun,"stop (bus, tram)",durak,Die Haltestelle ist gegenüber vom Park.,The stop is opposite the park.,Durak parkın karşısında.,A1,stadt,daily
+2026-10-20,Straßenbahn,die,Straßenbahnen,noun,"tram (Vienna, informal: die Bim)",tramvay,Ich fahre mit der Straßenbahn in die Stadt.,I take the tram into town.,Şehir merkezine tramvayla gidiyorum.,A1,"stadt,wien",daily
+2026-10-20,U-Bahn,die,U-Bahnen,noun,underground; metro,metro,Die U-Bahn kommt alle fünf Minuten.,The underground comes every five minutes.,Metro beş dakikada bir geliyor.,A1,stadt,daily
+2026-10-20,gegenüber,,+ Dativ (often: gegenüber von),prep,opposite,karşısında,Die Bank ist gegenüber dem Bahnhof.,The bank is opposite the station.,Banka istasyonun karşısında.,A2,"präposition,stadt",daily
+2026-10-20,Schreibtisch,der,Schreibtische,noun,desk,çalışma masası,Mein Schreibtisch steht am Fenster.,My desk is by the window.,Çalışma masam pencerenin yanında.,A1,büro,daily
+2026-10-20,Drucker,der,Drucker,noun,printer,yazıcı,Der Drucker hat kein Papier mehr.,The printer is out of paper.,Yazıcıda kâğıt kalmadı.,A1,büro,daily
+2026-10-20,Vollzeitstelle,die,Vollzeitstellen,noun,full-time job,tam zamanlı iş,Er hat eine Vollzeitstelle bei einer Baufirma.,He has a full-time job at a construction company.,Bir inşaat şirketinde tam zamanlı çalışıyor.,A2,arbeit,daily
+2026-10-20,glücklich,,,adj,happy,mutlu,Ich bin glücklich in meiner neuen Wohnung.,I'm happy in my new flat.,Yeni dairemde mutluyum.,A1,gefühle,daily

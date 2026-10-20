@@ -124,6 +124,10 @@ select.sm{background:var(--card);border:1px solid var(--line);border-radius:6px;
 .example .tr-en{color:var(--ink-3);font-size:14.5px;line-height:32px}
 .front-example{font-family:var(--serif);font-size:18px;color:var(--ink-2);margin-top:10px}
 
+.conj{display:grid;grid-template-columns:repeat(2,minmax(0,max-content));column-gap:36px;margin:2px 0 0;line-height:32px;font-size:17px}
+.conj .pr{color:var(--ink-3);font-size:14px;display:inline-block;min-width:5.2em}
+.conj b{font-family:var(--serif);font-weight:600}
+@media (max-width:420px){.conj{column-gap:14px;font-size:16px}.conj .pr{min-width:5em;font-size:13px}}
 /* Answer buttons */
 .answer{margin-top:16px}
 .reveal-btn{width:100%;border:0;border-radius:8px;background:var(--accent);color:var(--accent-ink);padding:14px;font-weight:700;font-size:17px}
@@ -609,12 +613,29 @@ function speak(text){
 /* ---------- Rendering: review ---------- */
 const ICON_SPEAK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/></svg>';
 const TYPE_NAME = {noun:'noun', verb:'verb', adj:'adjective', adv:'adverb', phrase:'phrase', prep:'preposition', conj:'conjunction', pron:'pronoun'};
+const PRONOUNS = ['ich','du','er/sie/es','wir','ihr','sie/Sie'];
+function conjParts(w){
+  if (!w.forms) return null;
+  const parts = w.forms.split(';').map(x => x.trim());
+  const pres = parts[0].split(',').map(x => x.trim());
+  if (pres.length !== 6 || parts.length < 2) return null;
+  return {pres, prat:parts[1] || '', perf:parts[2] || ''};
+}
+function conjHTML(c){
+  const cell = i => `<div class="cj"><span class="pr">${PRONOUNS[i]}</span> <b lang="de">${esc(c.pres[i])}</b></div>`;
+  return `<div class="conj" aria-label="Present tense">${[0,3,1,4,2,5].map(cell).join('')}</div>
+    <div class="forms">${c.prat ? `Präteritum: <b lang="de">${esc(c.prat)}</b>` : ''}${c.prat && c.perf ? '<br>' : ''}${c.perf ? `Perfekt: <b lang="de">${esc(c.perf)}</b>` : ''}</div>`;
+}
 function pluralLine(w){
+  const c = conjParts(w);
+  if (c) return conjHTML(c);
   if (!w.forms) return w.type === 'noun' ? '<div class="forms">No plural</div>' : '';
   if (w.type === 'noun'){
+    if (/^(plural only|usually plural|mostly plural)/i.test(w.forms)) return `<div class="forms">${esc(w.forms.charAt(0).toUpperCase() + w.forms.slice(1))}</div>`;
     const pl = /^(die|der|das)\s/i.test(w.forms) ? w.forms : 'die ' + w.forms;
     return `<div class="forms">Plural: <b>${esc(pl)}</b></div>`;
   }
+  if (w.type === 'prep') return `<div class="forms">Case: <b>${esc(w.forms)}</b></div>`;
   return `<div class="forms">Forms: <b>${esc(w.forms)}</b></div>`;
 }
 function artHTML(w, animate){
@@ -638,7 +659,7 @@ function chipsHTML(w){
   const c = [];
   if (w.type) c.push(TYPE_NAME[w.type] || w.type);
   if (w.level) c.push(w.level);
-  w.tagList.slice(0, 3).forEach(t => c.push(t));
+  w.tagList.filter(t => t !== w.type && t !== (TYPE_NAME[w.type] || '')).slice(0, 3).forEach(t => c.push(t));
   if (S.mode === 'due' && isNew(w)) c.unshift('new');
   return c.map(x => `<span class="chip">${esc(x)}</span>`).join('');
 }
@@ -766,7 +787,7 @@ function rowHTML(w){
     ${open ? `<div class="wrow-detail">
       ${w.example_de ? `<div class="de-ex" lang="de">${esc(w.example_de)}</div>` : ''}
       ${w.example_en ? `<div>${esc(w.example_en)}</div>` : ''}${w.example_tr ? `<div lang="tr">${esc(w.example_tr)}</div>` : ''}
-      ${w.forms ? `<div style="margin-top:6px">${w.type === 'noun' ? 'Plural' : 'Forms'}: ${esc(w.forms)}</div>` : ''}
+      <div style="margin-top:6px">${pluralLine(w)}</div>
       <div style="margin-top:6px;font-size:13.5px;color:var(--ink-3)">Added ${esc(w.date || '—')}${p ? `, reviewed ${p.reps} time${p.reps===1?'':'s'}, forgotten ${p.lapses}` : ''}${store.amap[w.key] ? `, artikel guessed right ${store.amap[w.key].ok} of ${store.amap[w.key].ok + store.amap[w.key].miss}` : ''}</div>
       <div class="btn-row" style="margin-top:8px"><button class="btn" data-act="row-now">Review today</button><button class="btn" data-act="row-speak">Listen</button></div>
     </div>` : ''}
